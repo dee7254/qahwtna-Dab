@@ -71,7 +71,6 @@ body:not(.day-mode) .tagline::after {
   z-index: 0;
 }
 
-/* طبقة الوهج اللي تتبع الماوس */
 .page-glow-layer {
   pointer-events: none;
   position: fixed;
